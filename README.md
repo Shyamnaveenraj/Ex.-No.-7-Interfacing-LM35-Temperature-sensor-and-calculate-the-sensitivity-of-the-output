@@ -211,13 +211,12 @@ int main()
 ## Output screen shots :
 
 ### Display Off:
-![1](https://user-images.githubusercontent.com/91781810/200113863-19dba16e-d597-4542-b653-b11776c50459.png)
-
+![1](https://user-images.githubusercontent.com/94882357/200184092-c172254e-7eb7-45da-86bb-e0a086ecd803.png)
 ### Display On:
-![2](https://user-images.githubusercontent.com/91781810/200113869-4d8f66ac-df24-4660-b98a-7e4ed2f605b1.png)
-
+![2](https://user-images.githubusercontent.com/94882357/200184099-2760d6e3-b71e-46ab-a427-80e676cf3d0e.png)
 ### Layout Diagram:
-![3](https://user-images.githubusercontent.com/91781810/200113873-4ec2086b-4c5d-4c53-9939-0a077c42d1f8.png)
+![3](https://user-images.githubusercontent.com/94882357/200184128-b34cc437-1a43-41c0-8ef7-d2639ef1493d.png)
+
 
 # Tabulations and graph:
 ~~~
